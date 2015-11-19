@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 Ramon</div>
+                <div class="title">Laravel 5 Ramon In The Best</div>
             </div>
         </div>
     </body>
